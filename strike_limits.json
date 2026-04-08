@@ -1,10 +1,10 @@
 {
   "QQQ": {
-    "call_ceiling": 590,
-    "put_floor": 571
+    "call_ceiling": 610,
+    "put_floor": 590
   },
   "SPY": {
-    "call_ceiling": 560,
-    "put_floor": 520
+    "call_ceiling": 577,
+    "put_floor": 560
   }
 }
