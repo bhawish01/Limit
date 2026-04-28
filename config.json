@@ -2,7 +2,7 @@
   "BOT_ENABLED": true,
   "MAX_OPEN_TRADES": 5,
   
-  "DYNAMIC_WEB_SCAN_ENABLED": true,
+  "DYNAMIC_WEB_SCAN_ENABLED": false,
   "USE_GITHUB_SYMBOLS": true,
   "BOT_SYMBOLS": [
     "CRM",
@@ -17,6 +17,8 @@
     "CRWV",
     "NBIS",
     "POET",
+    "SNOW",
+    "PLTR",
     "#AAPL"
   ],
   "EMA_CONDITIONS_ENABLED": true,
