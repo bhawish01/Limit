@@ -1,0 +1,6 @@
+{
+  "DYNAMIC_WEB_SCAN_ENABLED": true,
+  "USE_GITHUB_SYMBOLS": true,
+  "BOT_SYMBOLS": ["TSLA", "NVDA", "#AAPL"],
+  "EMA_CONDITIONS_ENABLED": true
+}
