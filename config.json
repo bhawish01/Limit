@@ -1,5 +1,5 @@
 {
-  BOT_ENABLED": true,
+  "BOT_ENABLED": true,
   "MAX_OPEN_TRADES": 5,
   
   "DYNAMIC_WEB_SCAN_ENABLED": true,
