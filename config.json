@@ -3,4 +3,11 @@
   "USE_GITHUB_SYMBOLS": true,
   "BOT_SYMBOLS": ["ARM", "AMD", "COIN", "PLTR", "#SNOW"],
   "EMA_CONDITIONS_ENABLED": true
+  "CHECK_EMA8_EMA14": true,
+  "CHECK_EMA8_EMA28": true,
+  "CHECK_EMA8_EMA200": false,
+  "CHECK_DMI": false,
+  "CHECK_RSI": false,
+  "CHECK_RVOL": false,
+  "CHECK_VWAP": false
 }
