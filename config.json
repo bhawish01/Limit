@@ -1,13 +1,38 @@
 {
+  BOT_ENABLED": true,
+  "MAX_OPEN_TRADES": 5,
+  
   "DYNAMIC_WEB_SCAN_ENABLED": true,
   "USE_GITHUB_SYMBOLS": true,
-  "BOT_SYMBOLS": ["ARM", "AMD", "COIN", "PLTR", "#SNOW"],
-  "EMA_CONDITIONS_ENABLED": true
+  "BOT_SYMBOLS": [
+    "TSLA",
+    "NVDA",
+    "AMD",
+    "#AAPL"
+  ],
+  "EMA_CONDITIONS_ENABLED": true,
   "CHECK_EMA8_EMA14": true,
   "CHECK_EMA8_EMA28": true,
   "CHECK_EMA8_EMA200": false,
   "CHECK_DMI": false,
   "CHECK_RSI": false,
   "CHECK_RVOL": false,
-  "CHECK_VWAP": false
+  "CHECK_VWAP": false,
+  "FAST_EXIT_ENABLED": false,
+  "FAST_EXIT_PROFIT_PCT": 0.20,
+  "FAST_EXIT_LOSS_PCT": 0.20,
+  "MAIN_PROFIT_TARGET_PCT": 0.30,
+  "SCALP_PROFIT_TARGET_PCT": 0.15,
+  "STOP_LOSS_PCT": 0.35,
+  "TRAIL_ACTIVATION_PCT": 0.20,
+  "TRAIL_CAPTURE_PCT": 0.80,
+  "TRAIL_TIER1_GAIN": 1.50,
+  "TRAIL_TIER1_CAPTURE": 0.85,
+  "TRAIL_TIER2_GAIN": 3.00,
+  "TRAIL_TIER2_CAPTURE": 0.92,
+  #Quick Reference:
+  #To Pause Trading: Change "BOT_ENABLED": false.
+  #To Switch to Fixed Scalping: Change "FAST_EXIT_ENABLED": true and tune the two variables below it.
+  #To Loosen Entry Filters: Change any of the "CHECK_..." keys to false (e.g. "CHECK_VWAP": false to buy breakouts far above VWAP).
+  #To Ignore a Ticker: Add a hashtag inside the quotes (e.g. "#AAPL").
 }
