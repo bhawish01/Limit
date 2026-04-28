@@ -1,6 +1,8 @@
 {
   "BOT_ENABLED": true,
   "MAX_OPEN_TRADES": 8,
+  "USE_DYNAMIC_SIZING": false,
+  "MAX_ORDER_VALUE": 1000.0,
   
   "DYNAMIC_WEB_SCAN_ENABLED": true,
   "USE_GITHUB_SYMBOLS": true,
