@@ -33,5 +33,5 @@
   "#Quick Reference:",
   "#To Pause Trading: Change BOT_ENABLED: false.",
   "#To Switch to Fixed Scalping: Change FAST_EXIT_ENABLED: true and tune the two variables below it.",
-  "#To Loosen Entry Filters: Change any of the "CHECK_..." keys to false (e.g. CHECK_VWAP: false to buy breakouts far above VWAP).",
+  "#To Loosen Entry Filters: Change any of the CHECK_... keys to false (e.g. CHECK_VWAP: false to buy breakouts far above VWAP).",
   }
