@@ -1,9 +1,29 @@
-{
-  "BOT_ENABLED": true,
-  "LIQUIDATE_ON_STOP": true,
-  "TICKERS": ["TSLA", "HOOD"],
-  "QTY_PER_TICKER": 1,
+"BOT_ENABLED": true,
+  "LIQUIDATE_ON_STOP": false,
+  "QTY": 1,
   "SL_PCT": 0.20,
   "MAX_REENTRIES": 2,
-  "WING_WIDTH": 10.0
+  "WING_WIDTH": 10.0,
+  "TICKERS": {
+    "TSLA": {
+      "action": "TRADE",
+      "qty": 2
+    },
+    "ENPH": {
+      "action": "TRADE",
+       "qty": 5
+    },
+     "SNOW": {
+      "action": "TRADE",
+       "qty": 5
+    },
+    "CRWV": {
+      "action": "CLOSE"
+       "qty": 2
+    }
+      "PLTR": {
+      "action": "TRADE",
+       "qty": 5
+    },
+  }
 }
