@@ -13,6 +13,10 @@
      "HOOD": {
       "action": "CLOSE",
     }
+    "CRWV": {
+      "action": "TRADE",
+      "qty": 5
+    },
     "TSLA": {
       "action": "TRADE",
       "qty": 2
