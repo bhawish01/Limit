@@ -1,4 +1,5 @@
-"BOT_ENABLED": true,
+{
+  "BOT_ENABLED": true,
   "LIQUIDATE_ON_STOP": false,
   "AUTO_SCAN_ENABLED": true,
   "MAX_AUTO_TRADES": 3,
@@ -22,12 +23,12 @@
        "qty": 5
     },
     "CRWV": {
-      "action": "CLOSE"
+      "action": "CLOSE",
        "qty": 2
-    }
+    },
       "PLTR": {
       "action": "TRADE",
        "qty": 5
-    },
+    }
   }
 }
