@@ -10,6 +10,9 @@
   "MAX_REENTRIES": 2,
   "WING_WIDTH": 10.0,
   "TICKERS": {
+     "HOOD": {
+      "action": "CLOSE",
+    }
     "TSLA": {
       "action": "TRADE",
       "qty": 2
