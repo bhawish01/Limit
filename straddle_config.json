@@ -10,8 +10,8 @@
   "MAX_REENTRIES": 2,
   "WING_WIDTH": 10.0,
   "TICKERS": {
-     "HOOD": {
-      "action": "CLOSE",
+     "HIMS": {
+      "action": "TRADE",
     }
     "CRWV": {
       "action": "TRADE",
@@ -29,11 +29,11 @@
       "action": "TRADE",
        "qty": 5
     },
-    "CRWV": {
+    "PLTR": {
       "action": "CLOSE",
        "qty": 2
     },
-      "PLTR": {
+      "OKLO": {
       "action": "TRADE",
        "qty": 5
     }
