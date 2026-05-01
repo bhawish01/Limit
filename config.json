@@ -15,7 +15,7 @@
   "CHECK_RSI": true,
   "CHECK_RVOL": false,
   "CHECK_VWAP": false,
-  "FAST_EXIT_ENABLED": true,
+  "FAST_EXIT_ENABLED": false,
   "FAST_EXIT_PROFIT_PCT": 0.20,
   "FAST_EXIT_LOSS_PCT": 0.30,
   "MAIN_PROFIT_TARGET_PCT": 0.20,
