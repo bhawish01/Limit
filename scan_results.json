@@ -1,0 +1,495 @@
+{
+    "timestamp": "2026-05-04 15:56:49",
+    "status": "Idle",
+    "results": [
+        {
+            "symbol": "FIVN",
+            "momo_conviction": "TOP #1",
+            "momo_prob": "High",
+            "momo_type": "BEARISH (TOP CONVICTION)",
+            "whodat_spot": "N/A",
+            "source": "Whodat Conviction",
+            "is_conviction": true,
+            "status": "Whodat Only",
+            "spot": 0.0,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\ud83d\udd25 BEARISH / TOP CONVICTION",
+                "reasoning": "Institutional High-Conviction Setup detected. BEARISH (TOP CONVICTION)",
+                "action": "Scale in per Whodat institutional guidelines."
+            }
+        },
+        {
+            "symbol": "ONDS",
+            "momo_conviction": "TOP #2",
+            "momo_prob": "High",
+            "momo_type": "BULLISH (TOP CONVICTION)",
+            "whodat_spot": "N/A",
+            "source": "Whodat Conviction",
+            "is_conviction": true,
+            "status": "Whodat Only",
+            "spot": 0.0,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\ud83d\udd25 BULLISH / TOP CONVICTION",
+                "reasoning": "Institutional High-Conviction Setup detected. BULLISH (TOP CONVICTION)",
+                "action": "Scale in per Whodat institutional guidelines."
+            }
+        },
+        {
+            "symbol": "RIOT",
+            "momo_conviction": "TOP #3",
+            "momo_prob": "High",
+            "momo_type": "BULLISH (TOP CONVICTION)",
+            "whodat_spot": "N/A",
+            "source": "Whodat Conviction",
+            "is_conviction": true,
+            "status": "Whodat Only",
+            "spot": 0.0,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\ud83d\udd25 BULLISH / TOP CONVICTION",
+                "reasoning": "Institutional High-Conviction Setup detected. BULLISH (TOP CONVICTION)",
+                "action": "Scale in per Whodat institutional guidelines."
+            }
+        },
+        {
+            "symbol": "CAR",
+            "momo_conviction": "TOP #4",
+            "momo_prob": "High",
+            "momo_type": "BEARISH (TOP CONVICTION)",
+            "whodat_spot": "N/A",
+            "source": "Whodat Conviction",
+            "is_conviction": true,
+            "status": "Whodat Only",
+            "spot": 0.0,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\ud83d\udd25 BEARISH / TOP CONVICTION",
+                "reasoning": "Institutional High-Conviction Setup detected. BEARISH (TOP CONVICTION)",
+                "action": "Scale in per Whodat institutional guidelines."
+            }
+        },
+        {
+            "symbol": "EWY",
+            "momo_conviction": "95",
+            "momo_prob": "97%",
+            "momo_type": "\ud83d\udd34 BUY PUT $160",
+            "whodat_spot": "$164.43",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 164.43,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (95%). High historical probability (97%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "VRT",
+            "momo_conviction": "100",
+            "momo_prob": "98%",
+            "momo_type": "\ud83d\udd34 BUY PUT $320",
+            "whodat_spot": "$325.11",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 325.11,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (100%). High historical probability (98%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "XBI",
+            "momo_conviction": "95",
+            "momo_prob": "97%",
+            "momo_type": "\ud83d\udd34 BUY PUT $128",
+            "whodat_spot": "$133.19",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 133.19,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (95%). High historical probability (97%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "GS",
+            "momo_conviction": "95",
+            "momo_prob": "97%",
+            "momo_type": "\ud83d\udd34 BUY PUT $875",
+            "whodat_spot": "$905.11",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 905.11,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (95%). High historical probability (97%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "BMY",
+            "momo_conviction": "95",
+            "momo_prob": "97%",
+            "momo_type": "\ud83d\udd34 BUY PUT $56",
+            "whodat_spot": "$57.07",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 57.07,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (95%). High historical probability (97%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "BKNG",
+            "momo_conviction": "100",
+            "momo_prob": "98%",
+            "momo_type": "\ud83d\udd34 BUY PUT $166",
+            "whodat_spot": "$167.90",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 167.9,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (100%). High historical probability (98%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "GDX",
+            "momo_conviction": "100",
+            "momo_prob": "98%",
+            "momo_type": "\ud83d\udd34 BUY PUT $84",
+            "whodat_spot": "$86.19",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 86.19,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (100%). High historical probability (98%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "PM",
+            "momo_conviction": "95",
+            "momo_prob": "97%",
+            "momo_type": "\ud83d\udd34 BUY PUT $172",
+            "whodat_spot": "$170.71",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 170.71,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (95%). High historical probability (97%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "AMDL",
+            "momo_conviction": "95",
+            "momo_prob": "97%",
+            "momo_type": "\ud83d\udd34 BUY PUT $32",
+            "whodat_spot": "$34.16",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 34.16,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (95%). High historical probability (97%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "LRCX",
+            "momo_conviction": "100",
+            "momo_prob": "98%",
+            "momo_type": "\ud83d\udd34 BUY PUT $250",
+            "whodat_spot": "$260.93",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 260.93,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (100%). High historical probability (98%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "SOXS",
+            "momo_conviction": "95",
+            "momo_prob": "97%",
+            "momo_type": "\ud83d\udd34 BUY PUT $12",
+            "whodat_spot": "$12.67",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 12.67,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (95%). High historical probability (97%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "IBIT",
+            "momo_conviction": "95",
+            "momo_prob": "97%",
+            "momo_type": "\ud83d\udd34 BUY PUT $46",
+            "whodat_spot": "$45.59",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 45.59,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (95%). High historical probability (97%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "IWM",
+            "momo_conviction": "100",
+            "momo_prob": "98%",
+            "momo_type": "\ud83d\udd34 BUY PUT $277",
+            "whodat_spot": "$278.19",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 278.19,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (100%). High historical probability (98%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "STX",
+            "momo_conviction": "100",
+            "momo_prob": "98%",
+            "momo_type": "\ud83d\udd34 BUY PUT $735",
+            "whodat_spot": "$737.13",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 737.13,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (100%). High historical probability (98%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "TQQQ",
+            "momo_conviction": "100",
+            "momo_prob": "98%",
+            "momo_type": "\ud83d\udd34 BUY PUT $66",
+            "whodat_spot": "$65.45",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 65.45,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (100%). High historical probability (98%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "INOD",
+            "momo_conviction": "100",
+            "momo_prob": "98%",
+            "momo_type": "\ud83d\udd34 BUY PUT $47",
+            "whodat_spot": "$45.38",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 45.38,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (100%). High historical probability (98%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "FAS",
+            "momo_conviction": "95",
+            "momo_prob": "97%",
+            "momo_type": "\ud83d\udd34 BUY PUT $129",
+            "whodat_spot": "$133.92",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 133.92,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (95%). High historical probability (97%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "CAH",
+            "momo_conviction": "98",
+            "momo_prob": "98%",
+            "momo_type": "\ud83d\udd34 BUY PUT $195",
+            "whodat_spot": "$198.05",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 198.05,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (98%). High historical probability (98%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "DELL",
+            "momo_conviction": "95",
+            "momo_prob": "97%",
+            "momo_type": "\ud83d\udd34 BUY PUT $210",
+            "whodat_spot": "$210.63",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 210.63,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (95%). High historical probability (97%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        },
+        {
+            "symbol": "APA",
+            "momo_conviction": "86",
+            "momo_prob": "94%",
+            "momo_type": "\ud83d\udd34 BUY PUT $40",
+            "whodat_spot": "$41.21",
+            "source": "Whodat Momo",
+            "status": "Whodat Only",
+            "spot": 41.21,
+            "top_q": "N/A",
+            "walls": null,
+            "extra": null,
+            "manifestations": [],
+            "ai_rec": {
+                "verdict": "\u2705 BULLISH / ACCUMULATE",
+                "reasoning": "Strong momentum conviction (86%). High historical probability (94%).",
+                "action": "Scale in position. Watch for breakout confirmation."
+            }
+        }
+    ],
+    "last_changes": {
+        "added": [
+            "VRT",
+            "CAR",
+            "BKNG",
+            "TQQQ",
+            "ONDS",
+            "GDX",
+            "STX",
+            "FIVN",
+            "SOXS",
+            "FAS",
+            "EWY",
+            "DELL",
+            "PM",
+            "LRCX",
+            "GS",
+            "INOD",
+            "RIOT",
+            "CAH",
+            "IWM",
+            "BMY",
+            "AMDL",
+            "IBIT",
+            "XBI",
+            "APA"
+        ],
+        "removed": []
+    }
+}
